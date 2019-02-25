@@ -1,0 +1,6 @@
+framework module Pods_BookManager {
+  umbrella header "Pods-BookManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
